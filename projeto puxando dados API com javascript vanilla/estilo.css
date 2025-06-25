@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+#div-inputs{
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin-top: 1%;
+}
+
+#div-gravar-limpar{
+    margin-top: 1%;
+}
+
+thead, tbody, th, td{
+    border: 1px solid black;
+}
+
+table{
+    margin-top: 1%;
+}
+
+th, td{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.EscondeDiv{
+    display: none;
+}
+
+.ApareceDiv{
+    display: inline-block;
+}
+
